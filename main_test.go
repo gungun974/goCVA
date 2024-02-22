@@ -14,4 +14,5 @@ func TestValidator(t *testing.T) {
 
 var _ = Describe("goCVA", func() {
 	classTests()
+	cvaTests()
 })
